@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5 {
   font-family: 'Montserrat', sans-serif;
   font-size: 40px;
   font-weight: 700;
-  color: #263238;
+  color: #6f6f6f;
 }
 
 ul {
@@ -979,7 +979,7 @@ button:focus {
 }
 
 .call-action {
-  background: #f9f9f9;
+  background: #0d0d0d;
 }
 
 .call-action .cta-trial h3 {
@@ -1032,7 +1032,7 @@ button:focus {
    Portfolio Section
    ========================================================================== */
 #portfolios {
-  background: #f9f9f9;
+  background: #0d0d0d;
 }
 
 #portfolios .mix {
@@ -1172,7 +1172,7 @@ button:focus {
 
 .services-item {
   padding: 30px 15px;
-  background: #fff;
+  background: #0d0d0d;
   border-radius: 4px;
   text-align: center;
   margin-bottom: 30px;
@@ -1993,7 +1993,7 @@ textarea {
 }
 
 #contact {
-  background: #ffffff;
+  background: #0d0d0d;
   position: relative;
   overflow: hidden;
 }
@@ -2099,7 +2099,7 @@ textarea {
 }
 
 .subscribe-form .form-wrapper {
-  background-color: #ffffff;
+  background-color: #0d0d0d;
   padding: 58px 40px;
   border-radius: 4px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
@@ -2114,9 +2114,9 @@ textarea {
   width: 100%;
   font-size: 14px;
   box-shadow: none;
-  color: #848484;
+  color: #fff;
   text-transform: capitalize;
-  background: #f7f7f7;
+  background: #0d0d0d;
   border: 1px solid transparent;
   padding: 15px 30px;
   border-radius: 30px;
@@ -2125,8 +2125,8 @@ textarea {
 }
 
 .subscribe-form .form-wrapper .form-control:focus {
-  color: #212121;
-  background-color: #fff;
+  color: #fff;
+  background-color: #0d0d0d;
   border-color: #f39c12;
   box-shadow: none;
   outline: 0;
@@ -2294,7 +2294,7 @@ footer .menu li a:hover {
 }
 
 #copyright {
-  background-color: #ffffff;
+  background-color: #0d0d0d;
   padding: 20px 0 10px;
   border-top: 1px solid #eaeaea;
   color: #6f6f6f;

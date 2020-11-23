@@ -73,7 +73,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .bg-defult {
-  background: #8e44ad !important;
+  background: #0d0d0d !important;
 }
 
 /* ==========================================================================
@@ -2333,8 +2333,8 @@ footer .menu li a:hover {
 
 .counters .facts-item {
   text-align: center;
-  color: #fff;
-  border: 1px dotted #fff;
+  color: #8e44ad;
+  border: 1px dotted #8e44ad;
   border-radius: 4px;
   padding: 30px;
 }
@@ -2345,7 +2345,7 @@ footer .menu li a:hover {
 
 .counters .facts-item .icon i {
   font-size: 40px;
-  color: #fff;
+  color: #8e44ad;
 }
 
 .counters .facts-item .fact-count h3 {
@@ -2357,7 +2357,7 @@ footer .menu li a:hover {
 
 .counters .facts-item .fact-count h4 {
   font-size: 15px;
-  color: #fff;
+  color: #6f6f6f;
   margin-bottom: 0;
 }
 
